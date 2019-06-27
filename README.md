@@ -4,6 +4,8 @@
 
 运行HTTP请求程序
 
-make clean
-make
-./HttpTest
+```
+$ make clean
+$ make
+$ ./HttpTest
+```
